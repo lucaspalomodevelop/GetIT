@@ -34,6 +34,7 @@ Documentation for IT learning by [Lucas Palomo](https://github.com/lucaspalomode
   * [Gamers Nexus](https://www.youtube.com/user/GamersNexus)
   * [Tuhl Teim DE](https://www.youtube.com/c/TuhlTeimDEGooglePlus/videos)
   * [Heise Online](https://www.youtube.com/channel/UCAszOEwa5CS4WFwYpkjdaUQ)
+  * [BitBastelei](https://www.youtube.com/user/adlerweb)
   ### Programming:
   * [Unleashed Design](https://www.youtube.com/user/TheDeepForces)
   * [techPunkt](https://www.youtube.com/user/MrMacjo22)
