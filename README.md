@@ -42,3 +42,6 @@ My Documentation for IT learning
   * [Programmieren Starten](https://www.youtube.com/channel/UCVdfgrCLfJQfO5EgPlzaYAQ)
   ### Hacking/Pentesting
   * [The Morpheus Tutorials](https://www.youtube.com/channel/UCLGY6_j7kZfA1dmmjR1J_7w)
+## Git - Repos
+  ### Learning
+    * [Developer Roadmap | kamranahmedse](https://github.com/kamranahmedse/developer-roadmap)
