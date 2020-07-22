@@ -1,7 +1,7 @@
 # GetIT
 Documentation for IT learning by [Lucas Palomo](https://github.com/lucaspalomodevelop)
 
-## <p style="color:red">Books</p>:
+## Books:
   ### NodeJS:
   * [Node.js | Rheinwerkverlag](https://www.rheinwerk-verlag.de/nodejs_4630/)
    ### Docker:
