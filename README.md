@@ -26,11 +26,17 @@ My Documentation for IT learning
   * [Git2020 | OpenHPI](https://open.hpi.de/courses/git2020)
   
 ## Youtube Channels
+  ### Hardware
   * [Linus Tech Tips](https://www.youtube.com/user/LinusTechTips)
   * [der8auer](https://www.youtube.com/user/der8auer)
   * [Gamers Nexus](https://www.youtube.com/user/GamersNexus)
+  ### Programming
+  * [Unleashed Design](https://www.youtube.com/user/TheDeepForces)
+  * [techPunkt](https://www.youtube.com/user/MrMacjo22)
+  ### Theory
   * [bytethinks](https://www.youtube.com/user/bytethinks)
   * [Informatik - simpleclub](https://www.youtube.com/channel/UC1M6v6JEQyzTKeINGAaCfnw)
   * [Algorithmen verstehen](https://www.youtube.com/channel/UCswWBF6ZkGnLG3sLRR65xRw)
   * [Programmieren Starten](https://www.youtube.com/channel/UCVdfgrCLfJQfO5EgPlzaYAQ)
+  ### Hacking/Pentesting
   * [The Morpheus Tutorials](https://www.youtube.com/channel/UCLGY6_j7kZfA1dmmjR1J_7w)
