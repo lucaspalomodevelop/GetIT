@@ -5,7 +5,7 @@ My Documentation for IT learning
   ### NodeJS
   * [Node.js | Rheinwerkverlag](https://www.rheinwerk-verlag.de/nodejs_4630/)
    ### Docker
-  * https://shop.heise.de/katalog/ct-wissen-docker-2020
+  * [c't wissen DOCKER & Co. 2020](https://shop.heise.de/katalog/ct-wissen-docker-2020)
   
 ## Videos
   ### Angular 
