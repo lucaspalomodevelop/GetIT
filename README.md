@@ -9,9 +9,9 @@ My Documentation for IT learning
    ### Network
    * [Computer Netzwerke | Rheinwerkverlag](https://www.rheinwerk-verlag.de/computer-netzwerke_5161/)
    ### Linux 
-   *[Linux | Rheinwerkverlag ](https://www.rheinwerk-verlag.de/linux_4930/)
-   *[Linux Kommandoreferenz | Rheinwerkverlag ](https://www.rheinwerk-verlag.de/linux-kommandoreferenz_4658/)
-   *[Linux - die wichtigen Befehle kurz & gut | oreilly](https://www.oreilly.de/buecher/12790/9783960090342-linux---die-wichtigen-befehle-kurz-%26-gut.html)
+   * [Linux | Rheinwerkverlag ](https://www.rheinwerk-verlag.de/linux_4930/)
+   * [Linux Kommandoreferenz | Rheinwerkverlag ](https://www.rheinwerk-verlag.de/linux-kommandoreferenz_4658/)
+   * [Linux - die wichtigen Befehle kurz & gut | oreilly](https://www.oreilly.de/buecher/12790/9783960090342-linux---die-wichtigen-befehle-kurz-%26-gut.html)
   
 ## Videos
   ### Angular 
