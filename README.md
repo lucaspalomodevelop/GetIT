@@ -20,6 +20,8 @@ My Documentation for IT learning
   * [Introduction to Node.js | Web Dev Simplified ](https://www.youtube.com/watch?v=VShtPwEkDD0&list=PLZlA0Gpn_vH_uZs4vJMIhcinABSTUH2bY)
   ### Docker
   * [Container vs. VMs: Ein Blick auf Docker | BitBastelei](https://www.youtube.com/watch?v=leTpySlsl50)
+  ### CSS3
+  * [CSS 3 lernen - Das große Anfänger-Tutorial | techPunkt](https://www.youtube.com/playlist?list=PL5jhqWqcHcSLY1L3plznN7cXr4zteVbXL)
   
 ## Video-Courses
   ### Git
