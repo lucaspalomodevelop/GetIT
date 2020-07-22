@@ -32,16 +32,25 @@ Documentation for IT learning by [Lucas Palomo](https://github.com/lucaspalomode
   * [Linus Tech Tips](https://www.youtube.com/user/LinusTechTips)
   * [der8auer](https://www.youtube.com/user/der8auer)
   * [Gamers Nexus](https://www.youtube.com/user/GamersNexus)
+  * [Tuhl Teim DE](https://www.youtube.com/c/TuhlTeimDEGooglePlus/videos)
+  * [Heise Online](https://www.youtube.com/channel/UCAszOEwa5CS4WFwYpkjdaUQ)
   ### Programming:
   * [Unleashed Design](https://www.youtube.com/user/TheDeepForces)
   * [techPunkt](https://www.youtube.com/user/MrMacjo22)
+  * [LetsGameDev](https://www.youtube.com/user/Tomzalat)
+  * [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
   ### Theory:
   * [bytethinks](https://www.youtube.com/user/bytethinks)
   * [Informatik - simpleclub](https://www.youtube.com/channel/UC1M6v6JEQyzTKeINGAaCfnw)
   * [Algorithmen verstehen](https://www.youtube.com/channel/UCswWBF6ZkGnLG3sLRR65xRw)
   * [Programmieren Starten](https://www.youtube.com/channel/UCVdfgrCLfJQfO5EgPlzaYAQ)
+  * [KIT Informatik](https://www.youtube.com/c/KITinformatik/)
   ### Hacking/Pentesting:
   * [The Morpheus Tutorials](https://www.youtube.com/channel/UCLGY6_j7kZfA1dmmjR1J_7w)
+  ### Linux
+  * [Linux Guides](https://www.youtube.com/channel/UCHZyqB9qHGGGw5QeRVEbQDg)
+  * [marcus-s](https://www.youtube.com/c/marcusscomputer)
+  * [unicks.eu](https://www.youtube.com/channel/UCnZIn_CYjz0ErPs1ktH-2lQ/videos)
 ## Git - Repos:
   ### Learning:
   * [Developer Roadmap | kamranahmedse](https://github.com/kamranahmedse/developer-roadmap)
