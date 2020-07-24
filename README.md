@@ -26,6 +26,8 @@ Documentation for IT learning by [Lucas Palomo](https://github.com/lucaspalomode
 The Morpheus Tutorials](https://www.youtube.com/watch?v=FiaPzdWKhJU&list=PLNmsVeXQZj7ruNQIfS8NRpjzZIRq0A8QP)    
   ### Docker:
   * [Container vs. VMs: Ein Blick auf Docker | BitBastelei](https://www.youtube.com/watch?v=leTpySlsl50)
+  * [Einführung in Docker: Docker CLI, Dockerfile | zekro - Coding/Tutorials](https://www.youtube.com/watch?v=cDQPmbEwMzs)
+  * [Staged Builds & Komplexere Dockerfiles | zekro - Coding/Tutorials](https://www.youtube.com/watch?v=8MRY0fMccLw)
   ### CSS3:
   * [CSS 3 lernen - Das große Anfänger-Tutorial | techPunkt](https://www.youtube.com/playlist?list=PL5jhqWqcHcSLY1L3plznN7cXr4zteVbXL)
   
