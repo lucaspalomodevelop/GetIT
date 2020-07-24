@@ -19,7 +19,7 @@ Documentation for IT learning by [Lucas Palomo](https://github.com/lucaspalomode
   ### NodeJS:
   * [Introduction to Node.js | Web Dev Simplified ](https://www.youtube.com/watch?v=VShtPwEkDD0&list=PLZlA0Gpn_vH_uZs4vJMIhcinABSTUH2bY)
     ### Socket.io
-      * [chtzeit Statistiken mit SocketIO und ChartJS](https://www.youtube.com/watch?v=5uudeyaHaig)
+      * [Echtzeit Statistiken mit SocketIO und ChartJS](https://www.youtube.com/watch?v=5uudeyaHaig)
   ### Docker:
   * [Container vs. VMs: Ein Blick auf Docker | BitBastelei](https://www.youtube.com/watch?v=leTpySlsl50)
   ### CSS3:
