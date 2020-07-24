@@ -15,7 +15,7 @@ Documentation for IT learning by [Lucas Palomo](https://github.com/lucaspalomode
   
 ## Videos:
   ### Angular: 
-  * [Angular 7 - ToDo List Tutorial | Unleashed Design ](https://www.youtube.com/watch?v=yS6QKQkfw_w&list=PLwG0hu96Rc0oK1MJ3zfFRPqpmMJJ7Bn_g&index=1)
+  * [Angular 7 - ToDo List Tutorial | Unleashed Design | Playlist](https://www.youtube.com/watch?v=yS6QKQkfw_w&list=PLwG0hu96Rc0oK1MJ3zfFRPqpmMJJ7Bn_g&index=1)
   ### NodeJS:
   * [Introduction to Node.js | Web Dev Simplified ](https://www.youtube.com/watch?v=VShtPwEkDD0&list=PLZlA0Gpn_vH_uZs4vJMIhcinABSTUH2bY)
   * Socket.io:
@@ -28,7 +28,7 @@ The Morpheus Tutorials](https://www.youtube.com/watch?v=FiaPzdWKhJU&list=PLNmsVe
   * [Container vs. VMs: Ein Blick auf Docker | BitBastelei](https://www.youtube.com/watch?v=leTpySlsl50)
   * [Einführung in Docker: Docker CLI, Dockerfile | zekro - Coding/Tutorials](https://www.youtube.com/watch?v=cDQPmbEwMzs)
   * [Staged Builds & Komplexere Dockerfiles | zekro - Coding/Tutorials](https://www.youtube.com/watch?v=8MRY0fMccLw)
-  * [Docker Playlist | Nerdisch](https://www.youtube.com/watch?v=AkwtFayUlvA&list=PL5GusAoXMAEzCrlXZPGpUoZaVz20M_Vu3)
+  * [Docker Tutorial  | Nerdisch | Playlist](https://www.youtube.com/watch?v=AkwtFayUlvA&list=PL5GusAoXMAEzCrlXZPGpUoZaVz20M_Vu3)
   ### CSS3:
   * [CSS 3 lernen - Das große Anfänger-Tutorial | techPunkt](https://www.youtube.com/playlist?list=PL5jhqWqcHcSLY1L3plznN7cXr4zteVbXL)
   
