@@ -30,7 +30,7 @@ The Morpheus Tutorials | Playlist](https://www.youtube.com/watch?v=FiaPzdWKhJU&l
   * [Staged Builds & Komplexere Dockerfiles | zekro - Coding/Tutorials](https://www.youtube.com/watch?v=8MRY0fMccLw)
   * [Docker Tutorial  | Nerdisch | Playlist](https://www.youtube.com/watch?v=AkwtFayUlvA&list=PL5GusAoXMAEzCrlXZPGpUoZaVz20M_Vu3)
   ### CSS3:
-  * [CSS 3 lernen - Das große Anfänger-Tutorial | techPunkt](https://www.youtube.com/playlist?list=PL5jhqWqcHcSLY1L3plznN7cXr4zteVbXL)
+  * [CSS 3 lernen - Das große Anfänger-Tutorial | techPunkt | Playlist](https://www.youtube.com/playlist?list=PL5jhqWqcHcSLY1L3plznN7cXr4zteVbXL)
   
 ## Video-Courses:
   ### Git:
