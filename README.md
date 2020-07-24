@@ -28,6 +28,7 @@ The Morpheus Tutorials](https://www.youtube.com/watch?v=FiaPzdWKhJU&list=PLNmsVe
   * [Container vs. VMs: Ein Blick auf Docker | BitBastelei](https://www.youtube.com/watch?v=leTpySlsl50)
   * [Einführung in Docker: Docker CLI, Dockerfile | zekro - Coding/Tutorials](https://www.youtube.com/watch?v=cDQPmbEwMzs)
   * [Staged Builds & Komplexere Dockerfiles | zekro - Coding/Tutorials](https://www.youtube.com/watch?v=8MRY0fMccLw)
+  * [Docker Playlist | Nerdisch](https://www.youtube.com/watch?v=AkwtFayUlvA&list=PL5GusAoXMAEzCrlXZPGpUoZaVz20M_Vu3)
   ### CSS3:
   * [CSS 3 lernen - Das große Anfänger-Tutorial | techPunkt](https://www.youtube.com/playlist?list=PL5jhqWqcHcSLY1L3plznN7cXr4zteVbXL)
   
