@@ -18,6 +18,8 @@ Documentation for IT learning by [Lucas Palomo](https://github.com/lucaspalomode
   * [Angular 7 - ToDo List Tutorial | Unleashed Design ](https://www.youtube.com/watch?v=yS6QKQkfw_w&list=PLwG0hu96Rc0oK1MJ3zfFRPqpmMJJ7Bn_g&index=1)
   ### NodeJS:
   * [Introduction to Node.js | Web Dev Simplified ](https://www.youtube.com/watch?v=VShtPwEkDD0&list=PLZlA0Gpn_vH_uZs4vJMIhcinABSTUH2bY)
+    ### Socket.io
+      * [chtzeit Statistiken mit SocketIO und ChartJS](https://www.youtube.com/watch?v=5uudeyaHaig)
   ### Docker:
   * [Container vs. VMs: Ein Blick auf Docker | BitBastelei](https://www.youtube.com/watch?v=leTpySlsl50)
   ### CSS3:
