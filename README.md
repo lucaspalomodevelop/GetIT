@@ -18,8 +18,12 @@ Documentation for IT learning by [Lucas Palomo](https://github.com/lucaspalomode
   * [Angular 7 - ToDo List Tutorial | Unleashed Design ](https://www.youtube.com/watch?v=yS6QKQkfw_w&list=PLwG0hu96Rc0oK1MJ3zfFRPqpmMJJ7Bn_g&index=1)
   ### NodeJS:
   * [Introduction to Node.js | Web Dev Simplified ](https://www.youtube.com/watch?v=VShtPwEkDD0&list=PLZlA0Gpn_vH_uZs4vJMIhcinABSTUH2bY)
-    ### Socket.io
-      * [Echtzeit Statistiken mit SocketIO und ChartJS | Unleashed Design](https://www.youtube.com/watch?v=5uudeyaHaig)
+  * Socket.io:
+    * [Echtzeit Statistiken mit SocketIO und ChartJS | Unleashed Design](https://www.youtube.com/watch?v=5uudeyaHaig)
+  ### Python:
+  * PyQT:
+    * [Python GUI Programmierung mit PyQT 5 | 
+The Morpheus Tutorials](https://www.youtube.com/watch?v=FiaPzdWKhJU&list=PLNmsVeXQZj7ruNQIfS8NRpjzZIRq0A8QP)    
   ### Docker:
   * [Container vs. VMs: Ein Blick auf Docker | BitBastelei](https://www.youtube.com/watch?v=leTpySlsl50)
   ### CSS3:
