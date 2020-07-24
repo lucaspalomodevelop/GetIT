@@ -23,7 +23,7 @@ Documentation for IT learning by [Lucas Palomo](https://github.com/lucaspalomode
   ### Python:
   * PyQT:
     * [Python GUI Programmierung mit PyQT 5 | 
-The Morpheus Tutorials](https://www.youtube.com/watch?v=FiaPzdWKhJU&list=PLNmsVeXQZj7ruNQIfS8NRpjzZIRq0A8QP)    
+The Morpheus Tutorials | Playlist](https://www.youtube.com/watch?v=FiaPzdWKhJU&list=PLNmsVeXQZj7ruNQIfS8NRpjzZIRq0A8QP)    
   ### Docker:
   * [Container vs. VMs: Ein Blick auf Docker | BitBastelei](https://www.youtube.com/watch?v=leTpySlsl50)
   * [Einführung in Docker: Docker CLI, Dockerfile | zekro - Coding/Tutorials](https://www.youtube.com/watch?v=cDQPmbEwMzs)
