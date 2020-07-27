@@ -20,6 +20,7 @@ Documentation for IT learning by [Lucas Palomo](https://github.com/lucaspalomode
   * [Introduction to Node.js | Web Dev Simplified | Playlist](https://www.youtube.com/watch?v=VShtPwEkDD0&list=PLZlA0Gpn_vH_uZs4vJMIhcinABSTUH2bY)
   * Socket.io:
     * [Echtzeit Statistiken mit SocketIO und ChartJS | Unleashed Design](https://www.youtube.com/watch?v=5uudeyaHaig)
+    * [How To Create A Video Chat App With WebRTC | Web Dev Simplified](https://www.youtube.com/watch?v=DvlyzDZDEq4&t=1465s)
   ### Python:
   * PyQT:
     * [Python GUI Programmierung mit PyQT 5 | 
