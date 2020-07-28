@@ -36,6 +36,7 @@ The Morpheus Tutorials | Playlist](https://www.youtube.com/watch?v=FiaPzdWKhJU&l
 ## Video-Courses:
   ### Git:
   * [Git2020 | OpenHPI](https://open.hpi.de/courses/git2020)
+
   
 ## Youtube Channels:
   ### Hardware:
@@ -62,6 +63,7 @@ The Morpheus Tutorials | Playlist](https://www.youtube.com/watch?v=FiaPzdWKhJU&l
   * [Linux Guides](https://www.youtube.com/channel/UCHZyqB9qHGGGw5QeRVEbQDg)
   * [marcus-s](https://www.youtube.com/c/marcusscomputer)
   * [unicks.eu](https://www.youtube.com/channel/UCnZIn_CYjz0ErPs1ktH-2lQ/videos)
+  
 ## Git - Repos:
   ### Learning:
   * [Developer Roadmap | kamranahmedse](https://github.com/kamranahmedse/developer-roadmap)
