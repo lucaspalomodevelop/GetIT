@@ -64,13 +64,12 @@ The Morpheus Tutorials | Playlist](https://www.youtube.com/watch?v=FiaPzdWKhJU&l
   * [Linux Guides](https://www.youtube.com/channel/UCHZyqB9qHGGGw5QeRVEbQDg)
   * [marcus-s](https://www.youtube.com/c/marcusscomputer)
   * [unicks.eu](https://www.youtube.com/channel/UCnZIn_CYjz0ErPs1ktH-2lQ/videos)
- 
-## Websites:
+ ## Websites:
   ### E-Lerning:
-    * [Open HPI](https://open.hpi.de/)
-  ### Learn to program in a playful way
-    * [CodeCombat](https://codecombat.com/)
-    * [scratch](https://scratch.mit.edu/)
+  * [Open HPI](https://open.hpi.de/)
+  ### Learn to program in a playful way:
+  * [CodeCombat](https://codecombat.com/)
+  * [scratch](https://scratch.mit.edu/)
 ## Git - Repos:
   ### Learning:
   * [Developer Roadmap | kamranahmedse](https://github.com/kamranahmedse/developer-roadmap)
